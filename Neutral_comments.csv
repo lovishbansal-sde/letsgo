@@ -1,0 +1,2007 @@
+"
+Last: 2:25:24
+"
+"
+the rinkeby faucet is not working.what can I do to get test eth?
+"
+"
+2:50:37
+"
+"
+Looking for the javascript version
+"
+"
+4:29:25
+"
+"
+Are there any similar courses for Javascript developers?
+"
+"
+""I need a computer. Mi computers battery swelled. But as soon as I can,I will start.""
+"
+"
+6:13:00
+"
+"
+Bookmark at 2:26:23
+"
+"
+02:16:00
+"
+"
+I can't find JavaScript version? Is it on?
+"
+"
+01:15:00
+"
+"
+Is a technical background required?
+"
+"
+35:55
+"
+"
+""I put you 10 to 1 that probably only 1,000 people are watching this video over and over and over again to try to understad blockchain just in the first 3 hours.
+FML I'm slow with this.""
+"
+"
+Can i use for my code
+"
+"
+00:34:49
+"
+"
+LETS GOOOOOOOOOOOOOOOOOOOOO
+"
+"
+too long..
+"
+"
+Where's the javascript version link?
+"
+"
+What are the pre requisites for this course?
+"
+"
+ADAMSİN HUCAM
+"
+"
+hucam yapamiyurum nabmaliyim
+"
+"
+Do I need to know python to start the course
+"
+"
+Why are there suddenly so many ad reviews?
+"
+"
+am i the only one having to pause the video every 10s?
+"
+"
+""Appreciate your effort sir,
+when i requested for, was told insufficient fund,
+is the fault possibly from me?""
+"
+"
+""4:34:26 The code isn't working for me. It says """"FileNotFoundError: [WinError 2] The system cannot find the file specified""""""
+"
+"
+""सॉलिडिटी अभिज्ञसंविदा
+భూశుండికా""
+"
+"
+""Does the Rinkeby Faucet show """"No Ethereum address to fund"""" for anyone else, too? I use a facebook post.""
+"
+"
+Just leaving 10:37:00 timestamp to remember to do something in my ERC721 contract
+"
+"
+Add on translate english
+"
+"
+""Anyone getting """"Insufficient gas"""" on rinkeby?""
+"
+"
+Should I use my metamask or the one he uses?
+"
+"
+I am starting NOW!
+"
+"
+1:31:00
+"
+"
+00:07:00 - Start from here
+"
+"
+1:14:15
+"
+"
+they tell me while copying the url for the tweet insufficient funds for gas
+"
+"
+i didnt get any test eather
+"
+"
+I copy paste the code in the first section into remix and it wont deploy? Anybody know
+"
+"
+And where the time stamps
+"
+"
+2:09:49
+"
+"
+""Hi all, does anyone know how 'mint' checks that the owner of the NFT is the one that is trying to transfer the NFT ? shouldn't this owner SIGN the transaction request in some way, to really proove he's the owner ? otherwise everyone could transfer someone else's NFT. Or maybe this is implicit because you can't interact with the blockchain to do something, without presenting yourself with the """"msg.sender"""" address that MUST in any case sign the query ?""
+"
+"
+Any thoughts on using scaffold-eth after this course?
+"
+"
+3:24:15 should be account in MM instead of contract in MM
+"
+"
+Correction 3:23:35 should be 0.1 ETH instead of 0.1 WEI
+"
+"
+que cara bom!
+"
+"
+3:16:02 why does withdraw() need to be payable?
+"
+"
+""""""Ethereum address not found"""" while trying for Ethereum after pasting a twitter and fb link in Faucet""
+"
+"
+Does anyone know when the javascript version will be available?
+"
+"
+fund me page not working now with latest chainlink v0.8
+"
+"
+Jeff Bezos younger brother Joe
+"
+"
+Any word on the Javascript version of this course?
+"
+"
+Did the js version of video release?
+"
+"
+""A suggestion to everyone, it might not be said but knowledge to code is a prerequisite""
+"
+"
+""Anyone tried to get Ether and got the """"insuffient fund"""" message ?""
+"
+"
+Showing insufficient funds for gas+ price.
+"
+"
+jeff bezos with hair fr
+"
+"
+cant wait for the javascript edition
+"
+"
+12:48:20 Can we use django for front end development?
+"
+"
+Which data type should we use to initialize an array?
+"
+"
+Jeff Bezos from another universe
+"
+"
+""Getting This Mesage This contract may be abstract, not implement an abstract parent's methods completely or not invoke an inherited contract's constructor correctly. while Deploy fundMe contract""
+"
+"
+Im at 1:00:00
+"
+"
+""Did Remix change their syntax highlighting? I'm seeing green colors for both keywords (public, internal etc.), and modifiers (pure, view etc.). 
+Is there a way to change this?""
+"
+"
+""A very important distinction between view and pure that is missed in Lesson 1: 
+
+pure functions cannot read from storage state at all, whereas view functions can.""
+"
+"
+""at 1:40:00 I can't seem to have mine deployed as a contract and in the code, my stuff does not change to the same colors as his..""
+"
+"
+how much does a solidity engineer earn a year?
+"
+"
+How do you enable autocomplete in Remix?
+"
+"
+this is very comprehensive...pros practice the basics
+"
+"
+None of the testnets are working. How to get ETH?
+"
+"
+Your FullStack defi code doesnt even compile
+"
+"
+1:46:00
+"
+"
+Can someone start a discord  for this.  So we can ask questions and help others
+"
+"
+goe gezegd
+"
+"
+""I've been unable to get the Rinkeby Test Ether and it is over 24 hours now, does it take this long? Or is there something i'm not doing right?""
+"
+"
+""any idea why i would already have .1 eth in my rinkeby account? i just noticed it and from several months ago... i never used rinkeby until i watched this video, this isnt a sign my wallet is compromised is it?""
+"
+"
+The faucet doesn't work.
+"
+"
+has anyone figured out how to add the set token uri into the mint function with ipfs? is that possible
+"
+"
+00:01:29
+"
+"
+i have one question for the nft tutorial. is there any way to add the nft within the collection in json files?
+"
+"
+""05:26:04 price feed data cannot be configured to the """"netwoks"""" string  but should used other string.""
+"
+"
+i will say that till year 2025 this course will reach 10 million views
+"
+"
+if moreplatesmoredates and jeff bezos had a son
+"
+"
+36:10
+"
+"
+""Lesson """"0"""" Codd's 12 Rule Hmmm""
+"
+"
+enigma v2
+"
+"
+06:10:00 I didn't get what the difference is between Brownie ganache and self/local ganache. Are they equivalent to ganache-cli vs ganache interface?
+"
+"
+""getting list out of range error while deploying in own ganache network, can someone help me with this
+Running 'scripts\deployFundMe.py::main'...
+
+  File """"E:\lib\site-packages\brownie\_cli\run.py"""", line 49, in main
+
+    return_value, frame = run(
+
+  File """"E:\lib\site-packages\brownie\project\scripts.py"""", line 103, in run
+
+    return_value = f_locals[method_name](*args, **kwargs)
+
+  File """".\scripts\deployFundMe.py"""", line 37, in main
+
+    deploy_fundme()
+
+  File """".\scripts\deployFundMe.py"""", line 13, in deploy_fundme
+
+    account = get_account()
+
+  File """".\scripts\helpful_scripts.py"""", line 13, in get_account
+
+    return accounts[0]
+
+  File """"E:\lib\site-packages\brownie\network\account.py"""", line 113, in __getitem__
+
+    return self._accounts[key]
+
+IndexError: list index out of range""
+"
+"
+@12:48:00 Full stack Defi
+"
+"
+""At 5:58:56 it is mentioned that """"Brownie's built-in forking mechanism does not come with its own accounts"""". I think this is not true anymore. I was able to get an account  from the mainnet- fork in Development. Someone please verify.""
+"
+"
+anyone getting jeff bezos vibes from this guy?
+"
+"
+Do I need to know any programming language before watch this video?
+"
+"
+is there any course with JS.
+"
+"
+just adding this comment as a bookmark for my own reference
+"
+"
+check out 12:26:26
+"
+"
+Unable to get funds from rinkeby faucet
+"
+"
+""do web3 required Javascript, html and css?""
+"
+"
+What is Jeff bezos doing with putting on his wig?
+"
+"
+44:00
+"
+"
+Where can I see the JavaScript edition?
+"
+"
+1:31:00
+"
+"
+2:08:06
+"
+"
+can't wait for javaScript edition. When will it be?
+"
+"
+What are the prerequistes before learning solidity?
+"
+"
+11:50:06 - Summary
+"
+"
+when is the javascript solidity course coming out
+"
+"
+""In the Brownie FundMe section (5:36:42), if deploy.py is still spinning up its own Ganache instead of connecting to the Ganache app, check that the port is 8545 in the app. My Ganache app was set to port 7545, so the listener wasn't connecting to it.
+In the Ganache app, click the settings icon > SERVER, and then change the port. Ganache app will restart.""
+"
+"
+Jeff bezoo brother
+"
+"
+44:13
+"
+"
+do guys have one on how to start mining crypto with you own python code something that work or does this video include it too ??
+"
+"
+你剃光頭之後肯定會貌似Bezos失散多年的孿生兄弟
+"
+"
+i need that shirt
+"
+"
+9:40:00
+"
+"
+2:08:23
+"
+"
+When is the javascript version going to be released?
+"
+"
+ipfs 11:02:30
+"
+"
+1:24:12
+"
+"
+Is this really a 16h video?
+"
+"
+why does the tutorial always start from most nitty-gritty things? answer: veteran programmer just read the doc
+"
+"
+This video is a revolution.
+"
+"
+I'm not using FB or twitter... so how to get test ETH now?
+"
+"
+""Hello, is the javascript version of this tutorial released?""
+"
+"
+My amount was  COIN Global exchange when i with draw it is on order. How to relase that.
+"
+"
+rinkebry faucet not working
+"
+"
+15:00 for me.
+"
+"
+""can someone tell me where to find JavaScript version of this video,""
+"
+"
+""are there any pre-reqs?
+
+Also when done what would be the next steps?""
+"
+"
+cant believe jeff bezos is teaching this course
+"
+"
+""Hey folks, I have not all the test net options (Robsten, Kovan, Rinkeby, etc.) in my metamask account. Anyone have any idea on how to configure them?""
+"
+"
+""It's pertinent to know that investment is essential to make more money, I hit big on crypto, don't be afraid to step into your greatness...""
+"
+"
+Jeff with hair
+"
+"
+I'm waiting for javascript version. Any update on that?
+"
+"
+jeff bezos with hair
+"
+"
+Do they use chainlink in this tutorial?
+"
+"
+I have copied the Tweet in Rinkeby Faucet but get an error message: Insufficient funds for gas*price + value. Confused a I can't proceed with the tutorial. I need help from someone.
+"
+"
+When are you going to release the Javascript version of this toturial?
+"
+"
+What is the prerequisites before starting this course?
+"
+"
+Why does it take so long for Rinkeby Auth Faucet to process requests?
+"
+"
+what about motoko / internet computer ?
+"
+"
+""2nd lesson complete, next up fund me""
+"
+"
+Book- 1:56:55
+"
+"
+Is there a link to the JavaScript version
+"
+"
+I don't understand how you actually import interface only (AggregatorV3Interface) and use its functions. Unless the contract itself is somehow globally available and that's why you don't have to import it. It's at 2:44:52
+"
+"
+where is the javascript version???
+"
+"
+How do uu earn money from this
+"
+"
+Can you look at Radix DLT
+"
+"
+you know you can make multiple videos right…
+"
+"
+1:38:51
+"
+"
+""i am commenting where i left so..
+4:00:00""
+"
+"
+Are there other versions besides Python yet?
+"
+"
+rinkeby cant give me an ethers
+"
+"
+this video is modern day gold right here
+"
+"
+How much python do i need to be familiar with to start this course?
+"
+"
+1:52:00
+"
+"
+1.46.544
+"
+"
+🤬
+"
+"
+""Hi, i have a question. I have 3 rinkeby accounts on my metamask and im trying to deploy a contract. Only 1 of the accounts is letting me deploy, everytime i try the other accounts i keep getting MUST PROVIDE AN ETHEREUM ADDRESS. Why is that happening?""
+"
+"
+30:28
+"
+"
+this is so incridible
+"
+"
+03:37:30
+"
+"
+Timestamp for myself 02:29:20
+"
+"
+Sir can these be simultaneously learned in windows system ?? U are doing it on MAC ..
+"
+"
+""For first 10 seconds, I thought Jeff Bezos is teaching us.""
+"
+"
+""5:17:45 Verifying contract 
+8:40:00 Interact with aave
+9:17:27 Approve""
+"
+"
+""Hey JEFF Bezos, Got your hair back?""
+"
+"
+""Seen till 40:00 
+Self reminder 🎗️""
+"
+"
+IT'S ART!!!
+"
+"
+""This man talks about links in the description for a lot of things, but I cannot find any of the links.""
+"
+"
+4:09:00
+"
+"
+last watched till 24:48
+"
+"
+My bookmark 1h7 min
+"
+"
+Patrick Collins = Jeff Bezos + Hair
+"
+"
+Can anyone tell me why he has multiplied 10^18 with usdEntryFee(50$) two time in constructor () and in getEntranceFee() function...6:21:49
+"
+"
+I was not able to get brownie to work
+"
+"
+""You got an ad for a farming newsletter? 
+Are you in the farming industry too? tell us about it""
+"
+"
+Who else watching this as it goes over your head but still watching because one day we are all going to get it and bring our own contributions to this still very young industry 🛸
+"
+"
+I need a job
+"
+"
+where is the link
+"
+"
+rinkeby faucet is not working
+"
+"
+Jeff Bezos with hair
+"
+"
+Anyone else spend more time trying to get the installed packages to work then actually learning solidity? You can spend 5 hours on this youtube video and only make it 20 minutes in.
+"
+"
+2:21:45
+"
+"
+23:21
+"
+"
+""Just keeping track for myself
+3:51:46
+4:41:28
+5:06:30
+5:54:44
+6:11:28
+6:42:38
+8:34:44
+9:30:26
+10:19:14
+11:38:15
+12:02:45""
+"
+"
+12:00:00
+"
+"
+Waiting for the JavaScript version
+"
+"
+2:09:00
+"
+"
+Javascript ?
+"
+"
+rinkeby faucet is not working for me it says insufficient gas funds . what should i do ?
+"
+"
+02:09:50
+"
+"
+1:29:35
+"
+"
+""If you update your description to timestamp - title, youtube will update the bar to show what section of the video you're in.""
+"
+"
+""Patrick, every programming teacher could learn from you!""
+"
+"
+""Can anyone point out where in this course, he starts talking about openzepplin ?""
+"
+"
+You are a angel fren
+"
+"
+3:53:00 Cant install web3 with pip due to Microsoft Visual  C++ 14.0 and Python 3.10. Patrick let us know when this is fixed.
+"
+"
+Is there a way to unit test Solidity events?
+"
+"
+Can I learn if I know beginner level of Python & JS...
+"
+"
+1:10:00
+"
+"
+""Do you have any recommendations for integrating MetaMask on the front end from Python? More specifically, are there low-level functions accessible where I can store metadata to metamask?""
+"
+"
+Is the javascript version released?
+"
+"
+< how to write it on laptop ?
+"
+"
+Translation with hindi language
+"
+"
+1:31:00
+"
+"
+10:13:07
+"
+"
+cant find the JS version is it even out yet? really looking forward to that one
+"
+"
+anyone make notes from their videp
+"
+"
+Bookmark - 03:01:12
+"
+"
+""3:31:00 VSCode
+4:33:00 Brownie
+4:37:00 Accounts
+4:40:00 Environment Variable
+4:55:00 Infura
+7:03:00 VSCode Lottery
+7:09:00 get_account function
+7:28:00 Link token""
+"
+"
+What does decentralized mean in general? Amd then more specifically in this context
+"
+"
+2:50:00
+"
+"
+Jeff bezos’ brother?
+"
+"
+9:51:45 hahahahahaha
+"
+"
+1:51:30
+"
+"
+I dot know any coding (0 knowledge of python or javascript whatsoever) where should I start to get here?
+"
+"
+02:08:31
+"
+"
+24:14:16
+"
+"
+personal timestamp 3:17:00 14:09:00 13:34:24
+"
+"
+can someone tag mainnet fork part
+"
+"
+4:55:53
+"
+"
+When will the javascript version be released?
+"
+"
+1:59:53
+"
+"
+""Newbie here - why do you add underscores in front of _Name, _favoritenumber?""
+"
+"
+Köszönjük!
+"
+"
+""2:47:27 
+I dont understand why he had to pass in the address? And how is that adress relevent?""
+"
+"
+1:53:55
+"
+"
+25:25
+"
+"
+1:00:00
+"
+"
+44:30
+"
+"
+any tutorial on how to make dinamic nfts? Cenario where i have parts of the nft deployed to ipfs and generate random combination of parts on mint
+"
+"
+1:41:24
+"
+"
+yarn didnt install ganache cli for me. but this worked   npm install -g ganache-cli
+"
+"
+7:47:20
+"
+"
+""Rinkeby Test Network doesn't show up on the Metamask by default, you have to turn ON show test networks""
+"
+"
+27:38 OMFG tHiS gUy Is pOsSeSsEd
+"
+"
+""It's been 4 months since Python version, when will you release JavaScript version?""
+"
+"
+When js version will be released
+"
+"
+How can I learn solidity from start.
+"
+"
+4:27:41
+"
+"
+¡Gracias!
+"
+"
+4:00:20
+"
+"
+Does anyone know why the test networks are locked? I can't switch to the rinkeby testnet
+"
+"
+Persönliche Stoppunkte: 1:38:57
+"
+"
+3:38:32
+"
+"
+""Watch Checkpoint: 
+3:52:00""
+"
+"
+4:09:20 Interacting with the Contract!
+"
+"
+What is nonce?
+"
+"
+Who bears the transaction fee/gas? sender or the receiver?
+"
+"
+What is difference between Setting gas price 2 and gas limit 21000 vs setting gas price 1 and gas limit 42000 during a transaction?
+"
+"
+1:29:30
+"
+"
+i am so greatful that i get to learn from jeff bezos
+"
+"
+""Anyone else having issues changing the compiler version? Yesterday Remix was showing the full list, but today it only shows """"latest local version"""". I can't go any further until I fix this... :(""
+"
+"
+01:02:15
+"
+"
+""2:09:00
+3:26:35""
+"
+"
+1:20:00
+"
+"
+Didn't knew Jeff Bezos started teaching crypto courses after divorcing.
+"
+"
+jeff bezos with hair
+"
+"
+Can be make to Spanish traslate?
+"
+"
+Wait a minute... Was this just a 16 hour long Chainlink ad???
+"
+"
+1:42:46
+"
+"
+3:44 I have windows have gone through the installation of solidity compiler (I think correctly) not getting the printout of compiled_sol
+"
+"
+""What is the diff between Mnemonics and Private keys, from a technical point of view?""
+"
+"
+Sharding
+"
+"
+31:00
+"
+"
+25:38
+"
+"
+This is 10 times harder than I've anticipated.
+"
+"
+""35:01ok, I don't get it, how you did this🤔""
+"
+"
+2:08:30
+"
+"
+He's the IT version of Jeff Bezos
+"
+"
+1:09:00
+"
+"
+when will course be available in javascript ??
+"
+"
+1.12
+"
+"
+3:26:37
+"
+"
+49
+"
+"
+1:01:37
+"
+"
+Jeff Bezos with hair)
+"
+"
+We need this in JavaScript
+"
+"
+whats the meaning of life
+"
+"
+2:48:00
+"
+"
+1:30:00
+"
+"
+*2:08** prerequisite - python*
+"
+"
+Do I need to learn Python before I watch this?
+"
+"
+""tbh for a second, I thought it's Jeff Bezos with hair :)""
+"
+"
+1:31:00 personal timestamp
+"
+"
+13:55
+"
+"
+Is this enough for a job
+"
+"
+How many of these 1m views have done the work and gotten results?
+"
+"
+Waiting for javascript version
+"
+"
+Whats the difference between this and the chainlink 2 day weekend bootcamp? which one should come first? should I do both or does this one cover all things?
+"
+"
+where can I find this crouse in the javascript version
+"
+"
+39: 47
+"
+"
+Hardhat is handy over python.
+"
+"
+not able to get test tokens from rinkeby faucet.. says insufficient funds for gas*price
+"
+"
+""If we are using Ganache for local development, why do we need to use Infura?""
+"
+"
+29:00
+"
+"
+Very informative content men. Can you explain algorithmic trading? because I heard of mercor they are using that kind of trading.
+"
+"
+can not upload pip black.. any advise.?
+"
+"
+""I watched it 3 times at 0,5x speed.""
+"
+"
+🙏🙏🙏
+"
+"
+""The fund function is not a fallback, and you dont define recieve or fallback function. Why the contract still be able to get the wei when we calling fund tho?""
+"
+"
+15:59:48
+"
+"
+30:00
+"
+"
+5:38:00 persistent ganache chain
+"
+"
+How can i connect with blockchain learning community
+"
+"
+Can a total beginner take this course?
+"
+"
+adamsin
+"
+"
+Javascript version of this tutorial is a much needed add-on.
+"
+"
+""My bookmarks:
+
+2:10:32: Storage factory""
+"
+"
+9:50
+"
+"
+Trigger suggest (code completion) doesn't work
+"
+"
+remix ide don't show select parameter hints
+"
+"
+is javascript version of this video released?
+"
+"
+👆👆Contact him he is a genius
+"
+"
+""Hi everybody, I finished watching and learning from this video.What do I have to learn and do next to become a blockchain developer?please answer my question!!!!! :(""
+"
+"
+Am I the only one who believes the instructor - Patrick to be a look-alike of young Jeff Bezos?
+"
+"
+1:29:30 - Lets get to coding!
+"
+"
+when is javascript video coming out?
+"
+"
+So the withdraw function is the way people were scamming in the early days of cryptos?
+"
+"
+plsss when is the js version coning
+"
+"
+8:25
+"
+"
+How do I tip this guy ?
+"
+"
+faucet is down.......
+"
+"
+1:53:04 12/8/21
+"
+"
+""Without adding the funders for loop, when I withdraw from the contract, the balance of the contract goes to 0 already, because we move all the money out when we withdraw, so I don't get why we are doing this again, but I see how it has utility for multiple users.""
+"
+"
+How come funders go to 0 after they fund? Am I not understanding something. I am going to go over this again.
+"
+"
+Jeff!
+"
+"
+15:00:35
+"
+"
+9:00:00
+"
+"
+2:26:27
+"
+"
+3:06:58
+"
+"
+what are the prerequisite ?
+"
+"
+4:49:00
+"
+"
+1:21:31
+"
+"
+""wait a minute, is that 16 hours ?!""
+"
+"
+How come at 4:02:00 when you do print(private_key) and python deploy.py in the terminal the only thing that outputs is the private key? none of the other data in the file comes up?
+"
+"
+are you son of jeff bezos?
+"
+"
+This is game changing
+"
+"
+""hey patrick,
+do I have to brownie compile my contract everytime I make changes to it? or will it keep track of all the changes I make after I compile for the first time?""
+"
+"
+any idea when can we expect JS version of the course?
+"
+"
+continue from : 01:53:20
+"
+"
+The most awesomosumost blockchain course!
+"
+"
+""2:48:00 When I copy the code I and call getVersion I get 4 as output, not 3. Does anybody know why? Will this be an issue later on? 
+
+
+It would make sense if it was version 4, but im still using V3 in the code.""
+"
+"
+After completing this course can I code  my own  real world project?
+"
+"
+Come on Jeffrey you can do it.. 🐧🐧
+"
+"
+❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
+"
+"
+:elbowcough:
+"
+"
+elbowcough
+"
+"
+Are there ways to do this on mobile ?I’m new
+"
+"
+Can we have Java version of this video.?
+"
+"
+Jeff bezos in the 80s
+"
+"
+22:53
+"
+"
+2:03:00
+"
+"
+""# 03:21:42  could anyone explain me why  used  """"(0)""""  ?""
+"
+"
+Bezos with hair
+"
+"
+1:43:47
+"
+"
+Are there alot of jobs in this space?
+"
+"
+43:41 just for reference
+"
+"
+1:51:07 my key
+"
+"
+1:40:14
+"
+"
+""I am having problem installing """"pip install web3"""". Can anyone help?""
+"
+"
+44:11
+"
+"
+31:39
+"
+"
+45:15
+"
+"
+at 4:00:00 i cannot build transaction
+"
+"
+44:13
+"
+"
+сука яндекс переводчик не переводит
+"
+"
+When are you releasing the JS edition?
+"
+"
+solcx is not working for windows
+"
+"
+Is javascript edition released?
+"
+"
+when are you releasing the JavaScript version
+"
+"
+Jeff Bezos is that you?
+"
+"
+01:46:00
+"
+"
+""0:25:33 Making Your First Transaction
+0:44:12 How Do Blockchains Work?""
+"
+"
+6:01:00 Alchemy network add
+"
+"
+What browser are you using?
+"
+"
+1:00:00
+"
+"
+What's the workaround to Rinkeby not working as described and shown on @35:00?
+"
+"
+When might we get the JavaScript version of this video as mentioned?
+"
+"
+Bookmark for me) 01:50:47
+"
+"
+Can we make our own cryptocurrency with this?
+"
+"
+""""""from solcx"""" in windows is having issues. I can install Solcx but VS refuses to import it to the deploy script to compile.""
+"
+"
+thats jeff bezoz with a wig
+"
+"
+9:58:15
+"
+"
+what is the pre-required knowledge for this course??
+"
+"
+""i want to cry 16 Hours,, so many value""
+"
+"
+Mnemonic is NEE-monik not NEW-monic
+"
+"
+does this video has sutitle?
+"
+"
+I only noticed how long this it was 1 hour in.
+"
+"
+Why do i get such Jeff Bezos vibes from him
+"
+"
+Can’t wait for JavaScript version
+"
+"
+I did it. I endend this video
+"
+"
+Ethereum 2.0 is a lie: by Emin Gün Sirer
+"
+"
+""I foresee in the future blockchain devs are the highest sought after persons of all industries combined. They will be equivalent to todays c-suits, execs, decision-makers, Presidents and Chairs combined. #DAO""
+"
+"
+waiting for Javascript version
+"
+"
+""Add to washlist, I MUST watch this lesson""
+"
+"
+Monday I need to start my journey
+"
+"
+This is legendary
+"
+"
+""Wait, youre showing us your private key in the video, is it legitimately correct?""
+"
+"
+can I do this in javascript... I know javascript...
+"
+"
+Impossible!
+"
+"
+слабо на русском снять такое же?
+"
+"
+Does any prior programming knowledge is required to take this course?
+"
+"
+Jeff put a wig ay?
+"
+"
+""is it just me, or the tutor is jeff bezos with hairs?!?!""
+"
+"
+16hours needs a thumbs up
+"
+"
+Where can I find the js tutorial?
+"
+"
+Waiting for Javascript version
+"
+"
+This is gold
+"
+"
+rinkeby is not sending faucet funds..... what to do?
+"
+"
+When is js version going to be released?
+"
+"
+youre not coding...tho?.....right i was trying to actually learn...sorry
+"
+"
+This is a fairy tale
+"
+"
+This is more than a university
+"
+"
+Has the JavaScript version been uploaded?
+"
+"
+rinkeby faucet doesnt work
+"
+"
+SHIB 🐕to the 🌝🚀
+"
+"
+Is this course for people starting from zero experience coding?
+"
+"
+This video was made with Apple OS. Anyone have links to videos made with Windows?
+"
+"
+ALpha is not going up sir
+"
+"
+24:49
+"
+"
+1:45:16
+"
+"
+is that Jeff Bezos with hair?
+"
+"
+Just what I need! ⭐🙏🏻
+"
+"
+BBOITOI/'
+"
+"
+44:00
+"
+"
+""Gracias de verdad, excelente !!!!""
+"
+"
+im having error installing eth-brownie can someone help me
+"
+"
+this is exactly what I have been looking for for a very long time!
+"
+"
+How many beginners here trying to learn the *next big thing* ????
+"
+"
+Such a long video!!!
+"
+"
+When JavaScript version of this will be released?
+"
+"
+It is very comforable listening to you sir.
+"
+"
+When did Derek became programmer.
+"
+"
+5:22:00
+"
+"
+45:00
+"
+"
+I can't access Remix. I get a window that says Ad Blocker Detected. Do we need to disable our Ad Blockers to access these sites?
+"
+"
+besoz
+"
+"
+3:09 :20:  is it  roughly <destination_add>.transfer(<source_add>.balance)  ? am i correct ?
+"
+"
+subtle chainlink ad
+"
+"
+where are the links??
+"
+"
+Acct info... digital identy...storage & management of all aspects of a persons life...be it medical educational monetary last will & testament...also that poem song or book u r working on...or ur secert mac & cheese recipe...viva la blk ch
+"
+"
+my bookmark 43:04
+"
+"
+Hey guys can u tellme where to find how to integrate this brownie scripts with my reactjs project as front end ?
+"
+"
+Jeff Bezos really be doing tutorials these days huh?
+"
+"
+what is diff between Gas price and Transaction Fee?
+"
+"
+Need the JS version!
+"
+"
+""Self reminder fill finish this course :
+current timestamp  1:35:53""
+"
+"
+02:08:40
+"
+"
+whoever watches complete video are legends.
+"
+"
+I haven't been able to fund my Metamask Account from the Rinkeby Faucet with either Twitter or Facebook. Anybody knows how to get the Facebook URL ? H
+"
+"
+is it the same as when using javascript?
+"
+"
+10:21:55
+"
+"
+Test
+"
+"
+Is there a JavaScript edition?
+"
+"
+Where can I find the Javascript version?
+"
+"
+I thought this was a Jeff Bezos deepfake :v
+"
+"
+Waiting for JS edition
+"
+"
+ART!
+"
+"
+How am I just now finding this channel. Are they legit?
+"
+"
+Anybody else having issues getting test eth? I've not been able to get any.
+"
+"
+""Injected Web3 wouldn’t bring up metamask for me, anyone encounter this?""
+"
+"
+1:50 Becomes expert in crypto blockchain; gets paid in USD.
+"
+"
+I couldn't fund my Rinkesby Network
+"
+"
+How do I write code for auto add liquidity on every transaction in coin??
+"
+"
+""I am still not understand that if someone said that he send three Bitcoin, in lay man terms what is sending there, I can't understand""
+"
+"
+Cicoin guys
+"
+"
+At 00:02:42.
+"
+"
+Bedankt
+"
+"
+""Hola tiene el curso en ESPAÑOL o con subtítulos, Saludos""
+"
+"
+Can't wait for the js version
+"
+"
+""I don't know anything about python, so I'm looking forward to the javascript one.""
+"
+"
+Shiba inu.
+"
+"
+""I can't wait for the Javascript one!
+
+Does anyone have any idea when its coming?""
+"
+"
+""finally am in 4:00:28 ,more to go""
+"
+"
+""Going to complete this in 20days
+
+3:16:47
+3:35:08""
+"
+"
+Will this video teach how to launch a token?
+"
+"
+wen JS?
+"
+"
+Is he Eth Bezos?
+"
+"
+Is this course only for guys with engineering background?
+"
+"
+""Today , I am Starting my Blockchain academics from your Video""
+"
+"
+""This right here, is what I need.""
+"
+"
+Anyone else having issues with the Rinkeby faucet not sending tokens?
+"
+"
+""2.5h in... Most of the coding is flying right over my head, but I'm grasping the theory (at least).""
+"
+"
+For a second I thought that lecturer is Jeff Bezos but with hair...
+"
+"
+should i learn python first then this or can i just do this course as a total beginner
+"
+"
+can i do this course without coding past????
+"
+"
+Jeff Bezos stem cell therapy has worked and now he is teaching blockchain
+"
+"
+Hey future millionaire’s 🥸
+"
+"
+Do we really need to make withdraw function payable? Because based on what you explained earlier payable is only required when sending ETH to contract but here we are transferring eth from contract balance to senders account?
+"
+"
+tapoha 16h slc
+"
+"
+doing gods work
+"
+"
+""As always, you guys rock.""
+"
+"
+""I think the pandemic has taught people a big lesson, having one stream of income is not really a good idea cause your job doesn't secure your financial needs. The pandemic has really set out business-minded people from the rest that is why I'm  so lucky to be among the investor's...""
+"
+"
+Here's an idea: Why not have a playlist with a bunch of smaller videos each covering a particular topic rather than a 16-hour long single video?
+"
+"
+Used my thumb to cover his hair and now can't unsee Jeff Bezos
+"
+"
+1:52:00
+"
+"
+Is this course really for complete beginners? or what skills do I need to take it?
+"
+"
+""has anyone completed this course , can techs with non programming background are able to understand this course ?""
+"
+"
+Jeff Bezos lite
+"
+"
+So in this course we need Python and Solidity
+"
+"
+شكرا جزيلا لك
+"
+"
+When JS version?
+"
+"
+this tutorial is going to start a new bullrun. The views are increasing parabolic. I wonder how many defi apps are going to be build on that base. Holy cow!
+"
+"
+jeff bezos grew hair
+"
+"
+05:29:00
+"
+"
+""Just reminders where I left: 
+- How it works a Blockchain under the Hood (No coding yet): 44:05
+- Private and Public Keys: 1:02:00
+- Knowing Remix: 1:31:00
+- First Contract: 2:09:00""
+"
+"
+Is there any project in the end of this course ??
+"
+"
+@12:00
+"
+"
+Спасибо!
+"
+"
+I'm from 12 days in the future - buy more ethereum
+"
+"
+Can't wait for Javascript version of this course.
+"
+"
+""When will the js part come , I ' m looking forward to it""
+"
+"
+Bedankt
+"
+"
+This is a gold mine if you're getting started with solidity. A must watch period!
+"
+"
+Jeff bezos with hair
+"
+"
+If i study this course i can work for cryptocurrency?
+"
+"
+8:25:00 타임스탬프
+"
+"
+""23:21 Summary
+1:00:01 Summary Blockchain
+1:28:16 Quick recap (PoW, PoS)
+2:08:30 Recap Chapter 1
+2:25:59 Recap Chapter 2""
+"
+"
+8:25:11
+"
+"
+Is this the new data science?
+"
+"
+LunaLand blockchain will be next year
+"
+"
+LunaLand blockchain will be next year
+"
+"
+Can someone explain to me why Rinkeby eth is not getting to my wallet after following all the steps?
+"
+"
+""I know coding in c++ at very beginner level and don't have knowledge about any other language, can I watch this course or do I need any prerequisites?""
+"
+"
+44:14 blockchain demo
+"
+"
+36:12
+"
+"
+32:06
+"
+"
+Comment section become crypto promotion section
+"
+"
+18:38
+"
+"
+I'm on it
+"
+"
+Danke!
+"
+"
+any reason why brownie files dont download to my file??
+"
+"
+When did Jeff Besos become a blockchain mentor ?
+"
+"
+1.40.00
+"
+"
+Would it be possible for cryptocurrency to become a global phenomenon?
+"
+"
+8:51:21 Mike Tyson saying get-wet
+"
+"
+YOU ALL WE GOT!
+"
+"
+WGMI
+"
+"
+Are all these courses require the basic learnings
+"
+"
+This course needs knowledge of python programming or from the scratch ?!!
+"
+"
+are you planning to add captions to this course?
+"
+"
+""Anyone else getting """"execution reverted"""" when running the getPrice & getVersion function? I can't seem to get it to work for me. @02:52:05""
+"
+"
+I don't have store button in remix.
+"
+"
+Wait is that!? Jeff Bazos with hair
+"
+"
+Blockchain is a total con
+"
+"
+""fcc
+1.25:00
+2.""
+"
+"
+Does MetaMask not connect to Remix anymore?
+"
+"
+the gamestop example. BULLISH!!!!
+"
+"
+""way, way too long.""
+"
+"
+Patrick the OG
+"
+"
+16 Hours ! What a course !
+"
+"
+""OMG, this video teaches me everything.""
+"
+"
+This guy looks quite similar to Derek from More Plates More Dates
+"
+"
+why can't i push the people in the array?
+"
+"
+JS edition incoming?
+"
+"
+why on earth should you use python
+"
+"
+Can we have a complete course on DAML?
+"
+"
+👆👆👆I can't believe legit paying platform still exist this platform made my day
+"
+"
+👆👆👆I can't believe legit paying platform still exist this platform made my day
+"
+"
+Ggwp
+"
+"
+i mean it's 16 hours long so i'll sit on this egg but we're 20 minutes in without saying a single thing
+"
+"
+What a shocking surprise to see this kind of top notch content and wanted feature in FCC. you guys rock
+"
+"
+You are the real MVP. 🙏
+"
+"
+How can you upload a video longer than 12 hours? I thought that I couldn’t upload videos longer than 12 hours.
+"
+"
+""are you guys planning to release courses for Solidity & JS?
+Btw, this video is so hype!""
+"
+"
+Danke!
+"
+"
+MorePlatesMoreDates
+"
+"
+I have been waiting for this course for long 🥲🥲🥲
+"
+"
+cant wait for the javaScript version of this video!
+"
+"
+This video is going to be trendy!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+"
+"
+Jeff Bezos with hair
+"
+"
+""😮🤯🤫🙏🙏🎉
+Can't put the gratitude in words.
+Keep rocking folks.""
+"
+"
+Do one for solana plss
+"
+"
+OMG! Wat
+"
+"
+I didn’t know Derek was into tech
+"
+"
+""I have zero knowledge of writing code.
+Is this the right video for me to learn full stack blockchain development?""
+"
+"
+These guys are literally reading my mind
+"
+"
+can we have it with Javascript version?
+"
+"
+Scientific calculator can be used in standard 12 commerce exam
+"
+"
+Why python? Should be JS
+"
+"
+waiting for a Java Edition too
+"
+"
+I cant wait for the Javascript edition!!!!
+"
+"
+¡Gracias!
+"
+"
+Yeah this is my stop guys 🤑
+"
+"
+bezos is that u?
+"
+"
+""ok im 25 minutes in, and im starting to think that he's gonna advertise that chainlink thing every 5 minutes as he done so far""
+"
+"
+Incredible!
+"
+"
+fragment the topics and duration in the video
+"
+"
+""Wuhoo , Here we Go.🚀""
+"
+"
+Could you do the same for js/Node.js?)
+"
+"
+Woah jeff bezos with hairs
+"
+"
+Grazie.
+"
+"
+Waiting for javascript edition
+"
+"
+solidity python edition? what
+"
+"
+Legends assemble!!!!
+"
+"
+Can't wait for js version!!!!!!!!!
+"
+"
+Can't wait nodejs version
+"
+"
+Learn this
+"
+"
+Patrick is a LEGEND
+"
+"
+I'll try to load the data in my memory. Let's see the storage capacity.
+"
+"
+This is the alpha we need
+"
+"
+not all blockchains are transparent
+"
+"
+What a tour de force! And made by the right instructor too!
+"
+"
+""What is the prerequisite for taking this course?
+ Python coder? 
+Computer programmer?""
+"
+"
+START WATCHING VIDEO WITH FULL JOSH AFTER 1 HOUERS RIP
+"
+"
+WOOOOOOOOOOOOOOOOOOOOOOO
+"
+"
+Self-bookmark: 25:38
+"
+"
+Wait ! Jeff Bezos with hair?!
+"
+"
+""if he is bald, he could be JEFF BEZZOS""
+"
+"
+22:33 (Bookmark)
+"
+"
+""When I construct the struct 
+It's telling me parsererror,expected primary expression,it's messing with the flow right now 1:51:30""
+"
+"
+Is the code in Python or Solidity  ?
+"
+"
+finished in one go
+"
+"
+Real Need for this
+"
+"
+FUCKING LEGEND. Hats off gentlemen!
+"
+"
+golang edition ....
+"
+"
+Yaaassss
+"
+"
+I see the 30 year old Jeff Bezos in Him
+"
+"
+been waiting for so long for this 👏🏻👏🏻👏🏻thank you so much for making it 🙏🏻
+"
+"
+finally!!!!!!!
+"
+"
+""I dont think you understand how CLUTCH  the timing of this video is , THANK YOU SO MUCH🔥""
+"
+"
+Thankyou Jeff bezos
+"
+"
+Fantástico
+"
+"
+#lovefreecodecamp
+"
+"
+I will be a Programmer
+"
+"
+Yessss!
+"
+"
+a
+"
+"
+u guys just made my week ...daaammmnnnnnn !!!
+"
+"
+❤️
+"
+"
+yayyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy lessssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss go
+"
+"
+I was waiting for this
+"
+"
+அருமை!👍
+"
+"
+Much awaited Video ❤️
+"
+"
+11:49:13
+"
+"
+I am second
+"
+"
+Thankuuu sir
+"
